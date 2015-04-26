@@ -1,0 +1,21 @@
+{
+  "name": "angular-spec-helpers",
+  "version": "0.0.1",
+  "authors": [
+    "Merott Movahedi <merott@merott.com>"
+  ],
+  "description": "A small collection of helpers for AngularJS testing",
+  "main": "angular-spec-helpers.js",
+  "keywords": [
+    "angular",
+    "testing",
+    "helper",
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
